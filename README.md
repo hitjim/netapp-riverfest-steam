@@ -10,3 +10,6 @@ Build notes etc for NetApp STEAM City booth activities for 2017 Riverfest in Wic
 ## Operation Game
 * Scratch project - https://scratch.mit.edu/projects/3137739/
 * Makey Makey, build instructions - http://makeymakey.com/guides/pdfs/MaKeyMaKeyScratchOperationGame.pdf
+
+## Whack-a-mole
+* Scratch project - https://scratch.mit.edu/projects/43681296/
